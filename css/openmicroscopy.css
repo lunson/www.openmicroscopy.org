@@ -578,6 +578,14 @@ p.card-caption, span.card-caption {
 .omero-feature { max-width: 128px; }
 .omero-feature-png { max-width: 100px; }
 
+/* ========== table: OMERO plugins ==========*/
+#table-plugins th { cursor: pointer; }
+
+#table-plugins th i {
+    float: right;
+    padding-top: 5px;
+}
+
 /* ========== section: About ==========*/
 .citation {
     border-radius: 2px;
